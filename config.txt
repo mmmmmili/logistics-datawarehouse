@@ -1,0 +1,1 @@
+Provider=SQLNCLI11;Data Source=LAPTOP-S7FVO29V\SQLSEVER;Integrated Security=SSPI;Initial Catalog=Company
